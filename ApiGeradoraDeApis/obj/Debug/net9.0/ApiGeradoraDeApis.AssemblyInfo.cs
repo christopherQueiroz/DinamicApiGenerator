@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGeradoraDeApis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6325ec861b5f2dcbc1b264f94cabf54d6ebf7fc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGeradoraDeApis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGeradoraDeApis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

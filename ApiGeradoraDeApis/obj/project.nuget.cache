@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FYVevS60gCg=",
+  "dgSpecHash": "u4XjiPKp20w=",
   "success": true,
-  "projectFilePath": "C:\\Sandbox\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\ApiGeradoraDeApis.csproj",
+  "projectFilePath": "C:\\Sandbox\\DinamicApiGenerator\\ApiGeradoraDeApis\\ApiGeradoraDeApis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chque\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
     "C:\\Users\\chque\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",

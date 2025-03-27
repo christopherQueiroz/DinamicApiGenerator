@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sandbox\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\ApiGeradoraDeApis.csproj",
+      "projectUniqueName": "C:\\Sandbox\\DinamicApiGenerator\\ApiGeradoraDeApis\\ApiGeradoraDeApis.csproj",
       "projectName": "ApiGeradoraDeApis",
-      "projectPath": "C:\\Sandbox\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\ApiGeradoraDeApis.csproj",
+      "projectPath": "C:\\Sandbox\\DinamicApiGenerator\\ApiGeradoraDeApis\\ApiGeradoraDeApis.csproj",
       "packagesPath": "C:\\Users\\chque\\.nuget\\packages\\",
-      "outputPath": "C:\\Sandbox\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\ApiGeradoraDeApis\\obj\\",
+      "outputPath": "C:\\Sandbox\\DinamicApiGenerator\\ApiGeradoraDeApis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
