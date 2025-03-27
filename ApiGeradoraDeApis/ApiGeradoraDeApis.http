@@ -1,0 +1,6 @@
+@ApiGeradoraDeApis_HostAddress = http://localhost:5278
+
+GET {{ApiGeradoraDeApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
